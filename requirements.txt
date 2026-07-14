@@ -1,0 +1,2 @@
+# Core dependencies will be added here
+# e.g. numpy, pandas, scikit-learn, fastapi, streamlit, etc.
