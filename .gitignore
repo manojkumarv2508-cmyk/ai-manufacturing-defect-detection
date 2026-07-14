@@ -55,3 +55,23 @@ data/processed/*
 
 # Jupyter Notebooks
 .ipynb_checkpoints
+
+
+# Model files
+*.pth
+*.pt
+*.onnx
+*.ckpt
+
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
